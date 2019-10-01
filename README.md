@@ -1,4 +1,4 @@
-# Community-Members
-List of name of DSC-IIT Patna Members 
+### List of name and taglines of DSC-IIT Patna Members 
 
 Vatsal Singhal ( naam nhi suna hoga :-( )
+
